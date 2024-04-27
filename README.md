@@ -23,7 +23,9 @@ This project aims to analyze the data of a treadmill company using Python librar
 This analysis provides valuable insights for the treadmill company to make informed business decisions and improve sales. By leveraging the power of data and statistical analysis, the recommendations offered are actionable and straightforward, facilitating easy implementation without the need for complex technical knowledge.
 
 For any questions or further information, please contact.
-> Name: Tarun Raghav
-> email id: raghavtarunkumar@gmail.com
-> linkdin profile: [prfile link](https://www.linkedin.com/in/tarun-kumar-raghav-99a846198/)
+> **Name:** Tarun Raghav
+
+> **email id:** raghavtarunkumar@gmail.com
+
+> **linkdin profile:** [prfile link](https://www.linkedin.com/in/tarun-kumar-raghav-99a846198/)
 
